@@ -1,0 +1,662 @@
+[
+    {
+        "image": "https://i.ibb.co.com/Y4zVPVVZ/amazon-shopping-app.png",
+        "title": "Amazon Shopping",
+        "companyName": "Amazon Mobile LLC",
+        "id": 1,
+        "description": "Shop millions of products, track orders, and enjoy fast delivery with Amazon Prime. Discover deals, browse categories, and manage your account all in one place.",
+        "size": 87,
+        "reviews": 2847293,
+        "ratingAvg": 4.6,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 58200
+            },
+            {
+                "name": "2 star",
+                "count": 34100
+            },
+            {
+                "name": "3 star",
+                "count": 112400
+            },
+            {
+                "name": "4 star",
+                "count": 489300
+            },
+            {
+                "name": "5 star",
+                "count": 2153293
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/F4hj3Lhj/netflix-app.png",
+        "title": "Netflix",
+        "companyName": "Netflix, Inc.",
+        "id": 2,
+        "description": "Stream award-winning series, movies, documentaries, and more on your phone and tablet. Watch anywhere, anytime. Cancel anytime.",
+        "size": 65,
+        "reviews": 15823741,
+        "ratingAvg": 4.4,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 423100
+            },
+            {
+                "name": "2 star",
+                "count": 218900
+            },
+            {
+                "name": "3 star",
+                "count": 647200
+            },
+            {
+                "name": "4 star",
+                "count": 2934100
+            },
+            {
+                "name": "5 star",
+                "count": 11600441
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/WWd5rkyR/uber-app.png",
+        "title": "Uber",
+        "companyName": "Uber Technologies, Inc.",
+        "id": 3,
+        "description": "Get a reliable ride in minutes. Request a ride, hop in, and go. Uber is the smartest way to get around. Also order food with Uber Eats, all in one app.",
+        "size": 112,
+        "reviews": 7234891,
+        "ratingAvg": 4.3,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 312400
+            },
+            {
+                "name": "2 star",
+                "count": 198700
+            },
+            {
+                "name": "3 star",
+                "count": 521300
+            },
+            {
+                "name": "4 star",
+                "count": 1893200
+            },
+            {
+                "name": "5 star",
+                "count": 4309291
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/PZBxDC5T/spotify-app.png",
+        "title": "Spotify",
+        "companyName": "Spotify AB",
+        "id": 4,
+        "description": "Listen to songs, podcasts, and audiobooks. Discover new music daily, create playlists, and enjoy seamless streaming across all your devices.",
+        "size": 78,
+        "reviews": 19347821,
+        "ratingAvg": 4.5,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4098400
+            },
+            {
+                "name": "2 star",
+                "count": 187300
+            },
+            {
+                "name": "3 star",
+                "count": 743100
+            },
+            {
+                "name": "4 star",
+                "count": 3821000
+            },
+            {
+                "name": "5 star",
+                "count": 14298021
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/MK5CTsX/pinterest-app.png",
+        "title": "Pinterest",
+        "companyName": "Pinterest, Inc.",
+        "id": 5,
+        "description": "Discover recipes, home ideas, style inspiration, and other ideas to try. Save and organize the things you love with visual bookmarks called Pins.",
+        "size": 54,
+        "reviews": 5618293,
+        "ratingAvg": 4.2,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 198300
+            },
+            {
+                "name": "2 star",
+                "count": 143200
+            },
+            {
+                "name": "3 star",
+                "count": 412800
+            },
+            {
+                "name": "4 star",
+                "count": 1423900
+            },
+            {
+                "name": "5 star",
+                "count": 3440093
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/tp29PbFw/instagram-app.png",
+        "title": "Instagram",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 6,
+        "description": "Connect with friends, share photos and videos, explore Reels, and discover what's new. Instagram is where your world comes together.",
+        "size": 98,
+        "reviews": 34892174,
+        "ratingAvg": 4.5,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 621000
+            },
+            {
+                "name": "2 star",
+                "count": 389200
+            },
+            {
+                "name": "3 star",
+                "count": 1231800
+            },
+            {
+                "name": "4 star",
+                "count": 6743100
+            },
+            {
+                "name": "5 star",
+                "count": 25907074
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/mCF8Y23q/whatsapp-messenger-app.png",
+        "title": "WhatsApp Messenger",
+        "companyName": "Meta Platforms, Inc.",
+        "id": 7,
+        "description": "Simple, reliable, private messaging and calling for free, available all over the world. Send texts, voice messages, make calls, and share files easily.",
+        "size": 43,
+        "reviews": 28412893,
+        "ratingAvg": 4.7,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 312100
+            },
+            {
+                "name": "2 star",
+                "count": 198400
+            },
+            {
+                "name": "3 star",
+                "count": 721300
+            },
+            {
+                "name": "4 star",
+                "count": 4812000
+            },
+            {
+                "name": "5 star",
+                "count": 22369093
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/9kBKtKbz/zoom-app.png",
+        "title": "Zoom",
+        "companyName": "Zoom Video Communications",
+        "id": 8,
+        "description": "Meet, chat, call, and collaborate all in one place. Zoom is a leading platform for video conferencing, online meetings, webinars, and screen sharing.",
+        "size": 132,
+        "reviews": 4129837,
+        "ratingAvg": 4.3,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 198400
+            },
+            {
+                "name": "2 star",
+                "count": 112300
+            },
+            {
+                "name": "3 star",
+                "count": 348200
+            },
+            {
+                "name": "4 star",
+                "count": 921000
+            },
+            {
+                "name": "5 star",
+                "count": 2549937
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/8LmNgYZQ/linkedin-app.png",
+        "title": "LinkedIn",
+        "companyName": "LinkedIn Corporation",
+        "id": 9,
+        "description": "Connect with professionals, search for jobs, and grow your career. LinkedIn is the world's largest professional networking platform with over 900 million members.",
+        "size": 76,
+        "reviews": 6238492,
+        "ratingAvg": 4.1,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 312400
+            },
+            {
+                "name": "2 star",
+                "count": 198700
+            },
+            {
+                "name": "3 star",
+                "count": 621300
+            },
+            {
+                "name": "4 star",
+                "count": 1723800
+            },
+            {
+                "name": "5 star",
+                "count": 3382292
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/fznZ7rdJ/canva-app.png",
+        "title": "Canva",
+        "companyName": "Canva Pty Ltd",
+        "id": 10,
+        "description": "Create stunning designs for social media, presentations, posters, and more. Canva's drag-and-drop editor makes design easy for everyone, no experience needed.",
+        "size": 88,
+        "reviews": 3812947,
+        "ratingAvg": 4.8,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 28400
+            },
+            {
+                "name": "2 star",
+                "count": 19700
+            },
+            {
+                "name": "3 star",
+                "count": 87300
+            },
+            {
+                "name": "4 star",
+                "count": 412800
+            },
+            {
+                "name": "5 star",
+                "count": 3264747
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/QvYt2q1K/google-maps-app.png",
+        "title": "Google Maps",
+        "companyName": "Google LLC",
+        "id": 11,
+        "description": "Navigate your world faster and easier with Google Maps. Get real-time GPS navigation, traffic updates, transit info, and explore millions of places with Street View.",
+        "size": 102,
+        "reviews": 22183742,
+        "ratingAvg": 4.6,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 298100
+            },
+            {
+                "name": "2 star",
+                "count": 187400
+            },
+            {
+                "name": "3 star",
+                "count": 812300
+            },
+            {
+                "name": "4 star",
+                "count": 4312000
+            },
+            {
+                "name": "5 star",
+                "count": 16573942
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/3mS4xHtj/microsoft-onedrive-app.png",
+        "title": "Microsoft OneDrive",
+        "companyName": "Microsoft Corporation",
+        "id": 12,
+        "description": "Store, sync, and share your photos, videos, and documents from anywhere. OneDrive gives you 5 GB of free cloud storage and integrates seamlessly with Office apps.",
+        "size": 58,
+        "reviews": 2948213,
+        "ratingAvg": 4.4,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 89400
+            },
+            {
+                "name": "2 star",
+                "count": 67300
+            },
+            {
+                "name": "3 star",
+                "count": 198200
+            },
+            {
+                "name": "4 star",
+                "count": 712100
+            },
+            {
+                "name": "5 star",
+                "count": 1881213
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/d05y4k4H/youtube-app.png",
+        "title": "YouTube",
+        "companyName": "Google LLC",
+        "id": 13,
+        "description": "Watch, listen, stream, and create. YouTube is the world's biggest video platform with billions of videos spanning music, gaming, news, education, and entertainment.",
+        "size": 145,
+        "reviews": 48291034,
+        "ratingAvg": 4.4,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 912300
+            },
+            {
+                "name": "2 star",
+                "count": 543100
+            },
+            {
+                "name": "3 star",
+                "count": 1823400
+            },
+            {
+                "name": "4 star",
+                "count": 9231000
+            },
+            {
+                "name": "5 star",
+                "count": 35781234
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/n8jjSRNd/figma-app.png",
+        "title": "Figma",
+        "companyName": "Figma, Inc.",
+        "id": 14,
+        "description": "Collaborate on UI/UX design in real time. Figma is the leading design tool for teams to brainstorm, prototype, and ship beautiful digital products together.",
+        "size": 67,
+        "reviews": 1234891,
+        "ratingAvg": 4.7,
+        "downloads": 10000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12400
+            },
+            {
+                "name": "2 star",
+                "count": 9800
+            },
+            {
+                "name": "3 star",
+                "count": 34200
+            },
+            {
+                "name": "4 star",
+                "count": 198300
+            },
+            {
+                "name": "5 star",
+                "count": 980191
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/60tXs5R1/stripe-dashboard-app.png",
+        "title": "Stripe Dashboard",
+        "companyName": "Stripe, Inc.",
+        "id": 15,
+        "description": "Manage your Stripe business on the go. Monitor revenue, view transactions, issue refunds, manage customers, and respond to disputes from your mobile device.",
+        "size": 49,
+        "reviews": 487213,
+        "ratingAvg": 4.5,
+        "downloads": 5000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 8900
+            },
+            {
+                "name": "2 star",
+                "count": 6400
+            },
+            {
+                "name": "3 star",
+                "count": 18700
+            },
+            {
+                "name": "4 star",
+                "count": 98200
+            },
+            {
+                "name": "5 star",
+                "count": 355013
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/TDCQhc46/slack-app.png",
+        "title": "Slack",
+        "companyName": "Salesforce, Inc.",
+        "id": 16,
+        "description": "Slack brings your team's communication together. Message channels, video calls, file sharing, and app integrations make it the ultimate productivity hub for teams.",
+        "size": 93,
+        "reviews": 3921847,
+        "ratingAvg": 4.3,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 143200
+            },
+            {
+                "name": "2 star",
+                "count": 98700
+            },
+            {
+                "name": "3 star",
+                "count": 312100
+            },
+            {
+                "name": "4 star",
+                "count": 921300
+            },
+            {
+                "name": "5 star",
+                "count": 2446547
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/S7yDQCG7/duolingo-app.png",
+        "title": "Duolingo",
+        "companyName": "Duolingo, Inc.",
+        "id": 17,
+        "description": "Learn a new language for free with Duolingo. Fun, bite-sized lessons in over 40 languages. Science-based teaching methods keep you motivated and learning daily.",
+        "size": 61,
+        "reviews": 8934721,
+        "ratingAvg": 4.7,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 98300
+            },
+            {
+                "name": "2 star",
+                "count": 67100
+            },
+            {
+                "name": "3 star",
+                "count": 198400
+            },
+            {
+                "name": "4 star",
+                "count": 1423700
+            },
+            {
+                "name": "5 star",
+                "count": 7147221
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/SwsYYrzK/notion-app.png",
+        "title": "Notion",
+        "companyName": "Notion Labs, Inc.",
+        "id": 18,
+        "description": "Write, plan, and organize everything in one app. Notion combines notes, tasks, wikis, and databases so teams and individuals can stay productive from anywhere.",
+        "size": 72,
+        "reviews": 2134892,
+        "ratingAvg": 4.6,
+        "downloads": 50000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 34200
+            },
+            {
+                "name": "2 star",
+                "count": 23900
+            },
+            {
+                "name": "3 star",
+                "count": 87400
+            },
+            {
+                "name": "4 star",
+                "count": 412300
+            },
+            {
+                "name": "5 star",
+                "count": 1577092
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/CpW9QdFF/calm-app.png",
+        "title": "Calm",
+        "companyName": "Calm.com, Inc.",
+        "id": 19,
+        "description": "Sleep better, reduce stress, and live mindfully. Calm offers guided meditations, breathing exercises, sleep stories, and relaxing music to improve your well-being.",
+        "size": 55,
+        "reviews": 1823947,
+        "ratingAvg": 4.8,
+        "downloads": 50000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12800
+            },
+            {
+                "name": "2 star",
+                "count": 9400
+            },
+            {
+                "name": "3 star",
+                "count": 34100
+            },
+            {
+                "name": "4 star",
+                "count": 198700
+            },
+            {
+                "name": "5 star",
+                "count": 1568947
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/ksPLFcjp/chatgpt-app.png",
+        "title": "ChatGPT",
+        "companyName": "OpenAI",
+        "id": 20,
+        "description": "ChatGPT is your AI-powered assistant for writing, research, coding, brainstorming, and more. Have natural conversations and get instant answers to any question.",
+        "size": 84,
+        "reviews": 4912837,
+        "ratingAvg": 4.7,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 43200
+            },
+            {
+                "name": "2 star",
+                "count": 29800
+            },
+            {
+                "name": "3 star",
+                "count": 112400
+            },
+            {
+                "name": "4 star",
+                "count": 712300
+            },
+            {
+                "name": "5 star",
+                "count": 4015137
+            }
+        ]
+    }
+]
