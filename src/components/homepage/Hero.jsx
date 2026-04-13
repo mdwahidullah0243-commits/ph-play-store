@@ -9,7 +9,7 @@ const Hero = () => {
         <div className='flex flex-col items-center justify-center space-y-8 pt-20'>
             <div className='text-center space-y-4'>
                 <h1 className='font-bold text-[#001931] text-5xl/14'>
-                    We Build <br />
+                    We Build !!!!! <br />
                     <span className='bg-linear-to-r from-[#632EE3] from-80% to-[#9F62F2] bg-clip-text text-transparent'>Productive</span> Apps
                 </h1>
                 <p className='text-[#627382]'>
